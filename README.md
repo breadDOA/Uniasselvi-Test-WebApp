@@ -5,6 +5,6 @@ Initial steps of a future Webapp for fast access to occurrences that need first 
 
 
 
-I don't like Github, Bruh 🕷
+I don't like Github, Bruh.  
 ![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
 
